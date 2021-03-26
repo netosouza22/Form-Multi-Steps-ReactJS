@@ -1,3 +1,5 @@
+![My image](https://github.com/netosouza22/LOL-app/blob/master/src/assets/multi-step-img.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
