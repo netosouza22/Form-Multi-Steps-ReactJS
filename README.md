@@ -1,4 +1,4 @@
-![My image](https://github.com/netosouza22/LOL-app/blob/master/src/assets/multi-step-img.jpg)
+![My image](https://github.com/netosouza22/Form-Multi-Steps-ReactJS/blob/master/src/assets/multi-step-img.jpg)
 
 # Getting Started with Create React App
 
