@@ -1,13 +1,13 @@
-<h1 align="center">Clone Whatsapp only using CSS </h1>
+<h1 align="center">Form Multi Steps made With ReactJS</h1>
 
 <p align="center" style="font-weight: bold"> this project was made for fun and learning.</p> 
 
 <p align="center">
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/netosouza22/clone-whatsapp-css" >
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/netosouza22/Form-Multi-Steps-ReactJS" >
   
-  <img alt="Last Comit" src="https://img.shields.io/github/last-commit/netosouza22/clone-whatsapp-css/master" >
+  <img alt="Last Comit" src="https://img.shields.io/github/last-commit/netosouza22/Form-Multi-Steps-ReactJS/master" >
   
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/netosouza22/clone-whatsapp-css" >
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/netosouza22/Form-Multi-Steps-ReactJS" >
   
   <a href="https://www.linkedin.com/in/netosousa/">
     <img alt="Made by - Neto Sousa" src="https://img.shields.io/badge/Made_By-Neto_Sousa-%230000FF" >
@@ -35,7 +35,7 @@
 
 <h2 id="-layout">🎨 Layout </h2>
 <p align="center" style="display: flex; align-itens="flex-start"> 
-  <img src="https://github.com/netosouza22/clone-whatsapp-css/blob/master/cloneWhatsappCSS/whatsapp-clone.jpg" alt="CSS clone whatsapp image">
+  <img src="https://github.com/netosouza22/Form-Multi-Steps-ReactJS/blob/master/src/assets/multi-step-img.jpg" alt="CSS clone whatsapp image">
 </p>
                                                                                                                         
 </div>
@@ -45,13 +45,14 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/netosouza22/memory-game-pokemon.git
+$ git clone https://github.com/netosouza22/Form-Multi-Steps-ReactJS
 ```
 
 <h2 id="-tecnologies">⚙️ Tecnologies </h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li></li>
 </ul>
 <h2 id="-author">🦸 Author </h2>
     <p align="center"> 
