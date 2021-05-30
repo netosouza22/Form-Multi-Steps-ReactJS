@@ -29,8 +29,7 @@
 
 <h2 id="-about">🤷‍ About </h2>
   <p> 
-      This project was made only using HTML and CSS, I was trying improve my ablity in both tecnologies and the way I used was clonning some interface, the whatsapp
-      was my chosed for me, because it is a complex interface with several "boxes", this project has only CSS and HTML built without interaction with JS or any other       language. Understand this project like the begin of a person in the front end.
+      This project was made to learn about the construction of Forms using the tecnology React JS, the form have 3 steps separate by themes.
   </p>
 
 <h2 id="-layout">🎨 Layout </h2>
